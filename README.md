@@ -6,8 +6,9 @@ Template:
  
 2. Options for movement
    
- A. Use Camera to Follow the 3d object
- B. Move enviorment around 3d object
+A. Use Camera to Follow the 3d object
+ 
+B. Move enviorment around 3d object
 
 4. Right-Left-Up-Down have placeholders that rotate the model.
 
