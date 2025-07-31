@@ -5,8 +5,8 @@ Template:
 1. No bounds are set(altitude can be negative, it can "go forward" forever, etc)
  
 2. Options for movement  
-A. Use Camera to Follow the Plane
-B. Move enviorment around plane
+A. Use Camera to Follow the 3d object
+B. Move enviorment around 3d object
 
 3. Right-Left-Up-Down have placeholders that rotate the model.
 
